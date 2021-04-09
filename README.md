@@ -22,7 +22,11 @@ Nvim command `:PlugInstall`
  
  ` sudo apt-get install -y fonts-powerline`
  
+ `yay -S powerline` ==> ARCH
+ 
  ` sudo apt-get install -y fonts-font-awesome`
+ 
+ `yay -S awesome-terminal-fonts` ==> ARCH
  
  # COC
  Install NodeJS <br> 
